@@ -1,0 +1,20 @@
+Arjun Bajpai
+- Data gathering 
+- Report 
+
+Arohi Dureja
+- Data gathering 
+- Data pre-processing and cleaning 
+- Feature and Model Selection 
+
+Mali Shreyas Shankar
+- Data gathering 
+- Models - ARIMA & Random Forest 
+- Report 
+
+Siddharth Sharma
+- Data gathering
+- Model - LSTM
+- Report
+
+
